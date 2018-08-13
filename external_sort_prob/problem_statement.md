@@ -2,7 +2,7 @@
 
 Imagine a file in the following fixed format:
 
-<unique record identifier><white_space><numeric value>
+<unique_record_identifier><white_space><numeric_value>
 
 e.g.
 1637932011 9
