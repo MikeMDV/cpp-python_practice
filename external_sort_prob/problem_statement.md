@@ -4,7 +4,7 @@ Imagine a file in the following fixed format:
 
 <unique_record_identifier><white_space><numeric_value>
 
-e.g.
+e.g.  
 1637932011 9  
 1637932028 350  
 1637932037 25  
